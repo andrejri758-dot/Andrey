@@ -1,12 +1,12 @@
 const popularBooks = [
-  { id: 1, title: 'Snowbound', author: 'Janice Leonard', price: 'Rs. 450/-', img: 'https://placehold.co/180x260/1a365d/fff?text=Snowbound' },
-  { id: 2, title: 'The half-known life', author: 'Pico Iyer', price: 'Rs. 600/-', img: 'https://placehold.co/180x260/fef08a/333?text=Half-Known+Life' },
-  { id: 3, title: 'May it please the court', author: 'Daniel Goldfarb', price: 'Rs. 350/-', img: 'https://placehold.co/180x260/1e3a8a/fff?text=May+It+Please' },
-  { id: 4, title: 'A promised land', author: 'Barack Obama', price: 'Rs. 1200/-', img: 'https://placehold.co/180x260/334155/fff?text=A+Promised+Land' },
-  { id: 5, title: 'The lean startup', author: 'Eric Ries', price: 'Rs. 500/-', img: 'https://placehold.co/180x260/0284c7/fff?text=Lean+Startup' },
-  { id: 6, title: 'To kill a mockingbird', author: 'Harper Lee', price: 'Rs. 370/-', img: 'https://placehold.co/180x260/e0f2fe/333?text=Mockingbird' },
-  { id: 7, title: 'The $100 startup', author: 'Chris Guillebeau', price: 'Rs. 450/-', img: 'https://placehold.co/180x260/fff/dc2626?text=$100+Startup' },
-  { id: 8, title: 'Zero to one', author: 'Peter Thiel', price: 'Rs. 400/-', img: 'https://placehold.co/180x260/3b82f6/fff?text=Zero+To+One' }
+  { id: 1, title: 'Snowbound', author: 'Janice Leonard', price: 'Rs. 450/-', img: '62.img/1.jpg' },
+  { id: 2, title: 'The half-known life', author: 'Pico Iyer', price: 'Rs. 600/-', img: '62.img/2.jpg' },
+  { id: 3, title: 'May it please the court', author: 'Daniel Goldfarb', price: 'Rs. 350/-', img: '62.img/3.jpg' },
+  { id: 4, title: 'A promised land', author: 'Barack Obama', price: 'Rs. 1200/-', img: '62.img/4.jpg' },
+  { id: 5, title: 'The lean startup', author: 'Eric Ries', price: 'Rs. 500/-', img: '62.img/5.jpg' },
+  { id: 6, title: 'To kill a mockingbird', author: 'Harper Lee', price: 'Rs. 370/-', img: '62.img/6.jpg' },
+  { id: 7, title: 'The $100 startup', author: 'Chris Guillebeau', price: 'Rs. 450/-', img: '62.img/7.jpg' },
+  { id: 8, title: 'Zero to one', author: 'Peter Thiel', price: 'Rs. 400/-', img: '62.img/8.jpg' }
 ];
 
 const feedbacks = [
